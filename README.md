@@ -67,3 +67,12 @@ pip install -r requirements.txt
 📩 Email: Theabhi93101@gmail.com
 
 ⭐ If you found this project useful, don't forget to give it a star! 🌟
+
+## 📊 Project Presentation  
+
+To better understand this project, check out the full presentation:  
+
+📌 **[View Presentation]: https://github.com/Abhishek3088/E-Commerce-Customer-Segmentation-Prediction/blob/main/E-commerce%20Customer%20Segmentation%20and%20Prediction.pptx
+
+Click the link to **download the PPT** or view it directly.
+
